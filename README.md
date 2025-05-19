@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Mzehra2003
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hello, I'm Maha Zehra
+**Business Management Graduate | R programming | Self-taught Python (Intermediate level)**
+  
+- My main goal is to delve deeper into the fields of data analytics and AI and learning how to leverage them together to drive growth and innovation in the fields of business. I'm currently building a strong technical foundation in Python, R programming and applied analytics to bridge the gap between business strategy and data-driven decision making
 
-<!---
-Mzehra2003/Mzehra2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**My current progress**
+- Python fundamentals
+- Data structures and algorithms
+- Data wrangling and analysis with Pandas and NumPy
+- Basic statistics and hypothesis testing
+- API intergration and web scraping
+- Data visualisation, reporting and Jupyter notebooks
+- automation scripts and self-led mini projects
+
